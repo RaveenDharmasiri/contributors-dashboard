@@ -22,8 +22,8 @@ class App extends Component {
         <Row>
           <Col xs={14}>
           <div class="navbar pulse-header header">
-            <img src="/assets/logo.png" alt="logo" width="100px" />
-            <h2>Xian's Contributors Dashboard</h2>
+            <img class="main-header-title" src="/assets/logo.png" alt="logo" width="100px" />
+            <h2 >Xian's Contributors Dashboard</h2>
           </div>
           </Col>
           <Col xs={12}> 

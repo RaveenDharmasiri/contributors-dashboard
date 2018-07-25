@@ -8,7 +8,10 @@ class Tranding extends Component{
     render(){
         return(
             <Panel className="Tranding-Panel-Main-Wrapper">
-                <h3 className="TradningTitle">99xt Tranding Repositories of the month</h3>
+                <div class="TradingTitleContainer">
+                    <center><h3 className="TradningTitle">99xt Tranding Repositories of the month</h3></center>
+                </div>
+                
                 <Container className="Tranding-Panel-Main-Container">
                     <Row>
                         <Col sm="6">

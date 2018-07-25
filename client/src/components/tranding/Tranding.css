@@ -12,4 +12,12 @@
 
 .TradningTitle{
     color:white;
+    font-size:30pt;
+    font-weight:90;
+    letter-spacing: -2px;
+}
+
+.TradingTitleContainer{
+    height:100px;
+    padding-top:10px;
 }
